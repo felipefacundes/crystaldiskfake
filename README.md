@@ -6,3 +6,6 @@
   - cd crystaldiskfake
   - sh crystaldisk-fake.sh
 
+
+
+###### Licença: GPLv3
