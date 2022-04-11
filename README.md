@@ -1,7 +1,7 @@
 # Crystal Disk Fake - For Linux
-##### Faça o teste de velocidade do seu disco, sem precisar do HDPARM. Terá mais informações: como teste de cópia. Será basico, porém similar ao CrystalDisk e sem precisar de acesso root.
+##### Speed test your disk, no HDPARM needed. Will have more information: such as copy test. It will be basic, but similar to CrystalDisk and without root access.
 
-##### Apenas Execute no terminal:
+##### Just run in Terminal:
 
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/crystaldiskfake/master/crystaldisk-fake.sh)`
 
@@ -12,4 +12,4 @@
 
 
 
-###### Licença: GPLv3
+###### License: GPLv3
