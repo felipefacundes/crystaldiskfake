@@ -21,6 +21,7 @@ tput sgr0
 echo
 time cp "${test_disk_file}" .test_disk_file_copy
 rm .test_disk_file_copy
+echo
 bash -c "sync && echo 3 | sudo tee /proc/sys/vm/drop_caches" > /dev/null
 tput setaf 2; echo "Read Test:"
 tput sgr0
