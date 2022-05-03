@@ -1,5 +1,5 @@
 # Crystal Disk Fake - For Linux
-##### Speed test your disk, no HDPARM needed. Will have more information: such as copy test. It will be basic, but similar to CrystalDisk and without root access.
+##### Speed test your disk, no HDPARM needed. Will have more information: such as copy test. It will be basic, but similar to CrystalDisk.
 
 ##### Just run in Terminal:
 
