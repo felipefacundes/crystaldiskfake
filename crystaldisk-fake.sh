@@ -3,7 +3,7 @@
 # E-mail: felipe.facundes@gmail.com
 # License GPLv3
 bash -c "sync && echo 3 | sudo tee /proc/sys/vm/drop_caches" > /dev/null
-test_disk_file=.test_disk_file_`date +"%d-%m-%Y_%H:%M:%S"`
+test_disk_file=.test_disk_file_`date +"%d-%m-%Y_%H-%M-%S"`
 echo
 tput setaf 2; echo "Writing Test (Method 01):"
 tput sgr0
